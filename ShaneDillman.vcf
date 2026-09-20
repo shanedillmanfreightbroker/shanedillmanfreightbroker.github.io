@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Shane Dillman
+N:Dillman;Shane;;;
+TITLE:Freight Broker
+ORG:Shane Dillman/Freight Broker
+TEL;TYPE=CELL,VOICE:272-425-7264 
+EMAIL;TYPE=INTERNET,WORK:shane.dillman@landstarmail.com
+URL;TYPE=WORK:https://shanedillmanfreightbroker.github.io
+ADR;TYPE=WORK:;;Williamsport,PA 17701;;;
+NOTE:Independent Freight Brokerage & Logistics Solutions. Direct accountability, reliable capacity, single point of contact.
+END:VCARD
